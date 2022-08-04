@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "ProjectToDo"
+  "defaultProject": "ProjectToDo",
+  "cli": {
+    "analytics": "4ad149c2-6fdb-4a6f-87e5-10aa5dc3bbed"
+  }
 }
